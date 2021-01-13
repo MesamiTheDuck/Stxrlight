@@ -1,6 +1,4 @@
-https://cdn.krnl.rocks/getkey.php
-Open Link in New Tab
- Press f12 or CTRL Shift I
+Press f12 or CTRL Shift I
 Click Console
 Paste Script:
 window.open("https://cdn.krnl.rocks/getkey.php", "", "noreferrer=yes");
