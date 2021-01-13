@@ -1,0 +1,20 @@
+https://cdn.krnl.rocks/getkey.php
+Open Link in New Tab
+ Press f12 or CTRL Shift I
+Click Console
+Paste Script:
+window.open("https://cdn.krnl.rocks/getkey.php", "", "noreferrer=yes");
+setTimeout(function(){
+    window.open("https://cdn.krnl.rocks/getkey.php", "", "noreferrer=yes");
+}, 15000);
+setTimeout(function(){
+    window.open("https://cdn.krnl.rocks/getkey.php", "", "noreferrer=yes");
+}, 30000);
+setTimeout(function(){
+    window.open("https://cdn.krnl.rocks/getkey.php", "", "noreferrer=yes");
+}, 45000);
+setTimeout(function(){
+    window.open("https://cdn.krnl.rocks/getkey.php", "", "noreferrer=yes");
+}, 60000);
+Wait Until Script Is Finished
+Exploit!
